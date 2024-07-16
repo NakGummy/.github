@@ -18,11 +18,11 @@ NakGummy のプロジェクト置き場。
 
 ## 現状
 
-[00-Introduction](https://github.com/NakGummy/01-React) は断続的に更新。
+[00-Introduction](https://github.com/NakGummy/00-Introduction) は断続的に更新。
 
 現在は
 
 - [01-React(dev)](https://github.com/NakGummy/01-React)
-  [![01-React Image](../src/01-React0.png)]()
+  [![01-React Image](../src/01-React0.png)](https://github.com/NakGummy/01-React)
 
 を開発中
