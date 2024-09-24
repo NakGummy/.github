@@ -23,8 +23,8 @@ NakGummy のプロジェクト置き場。
 
 現在は
 
-- [05-MERN](https://github.com/NakGummy/05-MERN)
-  [![05-MERN](../src/05-MERN0.png)](https://github.com/NakGummy/05-MERN)
+[07-SecureAuth](https://github.com/NakGummy/07-SecureAuth)
+[![07-SecureAuth](../src/dummy.png)](https://github.com/NakGummy/07-SecureAuth)
 
 を開発中
 
